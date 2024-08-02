@@ -1,16 +1,12 @@
 # 📖 Travel Tale
-
 ![readme-mockup](https://github.com/TEAM-OMG-iOS/TravelTale/assets/157277372/f77fd17c-0539-4d50-b385-3368a2c36783)
-
-
-- 배포 URL : 
-- API : Encoding 키를 config 파일에 입력해수제요.
 
 <br>
 
 ## 1. 프로젝트 소개
 
 - 국내 여행을 계획하고 기록하는 것을 도와주는 앱입니다.
+- 앱스토어 바로가기 : [(클릭)](https://apps.apple.com/kr/app/travel-tale-%ED%8A%B8%EB%9E%98%EB%B8%94-%ED%85%8C%EC%9D%BC/id6505096183)
 
 <br>
 
